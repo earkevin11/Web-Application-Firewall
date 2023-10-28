@@ -42,12 +42,13 @@
 
 
 # WAF Visual #2
-
+- WAF is located directly between the user and the web server
 <p align="center">
   
 <img src="https://github.com/earkevin11/Web-Application-Firewall/assets/104326475/d5b3576f-ee72-485f-88e8-2478e93f48e9" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
+
 
 
 
