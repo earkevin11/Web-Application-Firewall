@@ -76,6 +76,32 @@ Ex: For example, a Layer 7 DDoS attack sends a flood of traffic to the server la
 
 # Network Firewall
 
+# Network Firewall Architecture
+- Network Firewall is located on the edge of the network
+- Traditional network firewalls mitigate or prevent unauthorized access to private networks.
+- Firewall policies define the traffic allowed onto the network, and any other access attempts are blocked.
+- Examples of network traffic this helps to prevent are unauthorized users and attacks from users or devices in less secure zones.
+
+<p align="center">
+  
+<img src="https://www.okta.com/sites/default/files/media/image/2021-04/How-Firewalls-Work.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+# Network Firewall Architecture 2
+
+<p align="center">
+  
+<img src="https://github.com/earkevin11/Web-Application-Firewall/assets/104326475/c9e34ade-78d5-4dbe-881f-9bb5fd9e70af" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+
+
+
+
+
+
 # What does a Network Firewall protect? It secures local-area network from unauthorized access to prevent the risk of attacks.
 - Location:Network Firewall is located on the edge of the network while the WAF is located directly between the user and the web server.
 - Primary objective of a NF is to protect the network perimeter and filter traffic using protocol information.
