@@ -102,7 +102,8 @@ Ex: For example, a Layer 7 DDoS attack sends a flood of traffic to the server la
 
 
 
-# What does a Network Firewall protect? It secures local-area network from unauthorized access to prevent the risk of attacks.
+# What does a Network Firewall protect? 
+- It secures local-area network from unauthorized access to prevent the risk of attacks.
 - Location:Network Firewall is located on the edge of the network while the WAF is located directly between the user and the web server.
 - Primary objective of a NF is to protect the network perimeter and filter traffic using protocol information.
 # What layer does the Network Firewall focuses on in the OSI model?
