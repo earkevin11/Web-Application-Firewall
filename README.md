@@ -17,3 +17,24 @@
 
 # Support Service
 - WAF can be deployed with Azure Application Gateway, Azure Front Door, and Azure Content Delivery Network (CDN) service from Microsoft
+
+
+
+# WAF vs Network Firewall
+- A WAF protects web applications by targeting Hypertext Transfer Protocol (HTTP) traffic. This differs from a standard firewall, which provides a barrier between external and internal network traffic.
+
+
+- Web Application Firewall protects web applications by
+- WAF sits between external users and web applications to analyze all HTTP communication.
+- WAFs secure business-critical web applications and web servers from zero-day threats and other application-layer attacks.
+
+# Network Firewall
+- Network Firewall protects a secured local-area network from unauthorized access to prevent the risk of attacks.
+- Primary objective of a NF 
+
+<p align="center">
+  
+<img src="https://github.com/earkevin11/Web-Application-Firewall/assets/104326475/cc7a5e6d-38c4-4446-8451-65c9beacab24" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
