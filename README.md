@@ -88,4 +88,11 @@ Ex: For example, a Layer 7 DDoS attack sends a flood of traffic to the server la
 - 4. DDoS attacks at the network level
 
 
+# OSI Model
+
+<p align="center">
+  
+<img src="https://github.com/earkevin11/Web-Application-Firewall/assets/104326475/d1b19102-b9e3-4f35-92d8-949f7cd9acab" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
 
