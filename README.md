@@ -23,6 +23,9 @@
 # WAF vs Network Firewall
 - WAF amd Network Firewall server DIFFERENT purposes and protect different network types.
 - A WAF protects web applications by targeting Hypertext Transfer Protocol (HTTP) traffic. This differs from a standard firewall, which provides a barrier between external and internal network traffic.
+- Network firewalls and web application firewalls are complementary and can work together.
+- RECOMMENDED TO USE BOTH
+  
 <p align="center">
   
 <img src="https://github.com/earkevin11/Web-Application-Firewall/assets/104326475/cc7a5e6d-38c4-4446-8451-65c9beacab24" height="50%" width="50%" alt="Azure LAW"/>
@@ -30,12 +33,16 @@
 <p/>
 
 # WAF
-- What does a WAF protect? The WAF protects websites and APIs. It is configured as a reverse proxy and examines all HTTP(s) requests/traffic before they reach the web/application server.
+
+# What does a WAF protect? The WAF protects websites and APIs. It is configured as a reverse proxy and examines all HTTP(s) requests/traffic before they reach the web/application server.
 - WAFs can be considered as reverse proxies i.e. the opposite of a proxy server. Proxy servers protect devices from malicious applications, while WAFs protect web applications from malicious endpoints.
 - It blocks or tests irregular traffic with CAPTCHA tests to make sure the traffic is coming from a human and not a bot.
-- What Are Some Web Application Firewall Benefits? A web application firewall (WAF) prevents attacks that try to take advantage of the vulnerabilities in web-based applications. The vulnerabilities are common in legacy applications or applications with poor coding or designs. WAFs handle the code deficiencies with custom rules or policies.
+
+# What Are Some Web Application Firewall Benefits? A web application firewall (WAF) prevents attacks that try to take advantage of the vulnerabilities in web-based applications. Vulnerabilities are common in legacy applications or applications with poor coding or designs. WAFs handle the code deficiencies with custom rules or policies.
 - Location: WAF sits between external users and web applications to analyze all HTTP communication.
 - WAFs secure business-critical web applications and web servers from zero-day threats and other application-layer attacks.
+  
+# What layer does the WAF operate on?
 - Focuses on Layer 7 (Application Layer) and protects attacks at Layer 7, which is the application level of the OSI Model.
 - WAFs defend against
 - 1. SQL Injection attacks
@@ -47,10 +54,12 @@
 Ex: For example, a Layer 7 DDoS attack sends a flood of traffic to the server layer where web pages are generated and delivered in response to HTTP requests. A WAF mitigates this by acting as a reverse proxy that protects the targeted server from malicious traffic and filters requests to identify the use of DDoS tools. 
 
 # Network Firewall
-- What does a Network Firewall protect? It secures local-area network from unauthorized access to prevent the risk of attacks.
+
+# What does a Network Firewall protect? It secures local-area network from unauthorized access to prevent the risk of attacks.
 - Location:Network Firewall is located on the edge of the network while the WAF is located directly between the user and the web server.
 - Primary objective of a NF is to protect the network perimeter and filter traffic using protocol information.
-- Focuses on Layer 3 & 4 (network and transport) layer
+# What layer does the Network Firewall focuses on in the OSI model?
+- Layer 3 & 4 (network and transport) layer
 - Network Firewalls defend against:
 - 1. Unauthorized network access
 - 2. Man in the Middle Attacks
