@@ -32,11 +32,11 @@
 
 <p/>
 
-# WAF
+# WAF Visual
 
 <p align="center">
   
-<img src="https://github.com/earkevin11/Web-Application-Firewall/assets/104326475/8f3bdd5e-4219-45ea-bc79-059875b16df4" height="50%" width="50%" alt="Azure LAW"/>
+<img src="https://github.com/earkevin11/Web-Application-Firewall/assets/104326475/8f3bdd5e-4219-45ea-bc79-059875b16df4" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
 
