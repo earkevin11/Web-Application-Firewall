@@ -41,7 +41,18 @@
 <p/>
 
 
-# What does a WAF protect? The WAF protects websites and APIs. It is configured as a reverse proxy and examines all HTTP(s) requests/traffic before they reach the web/application server.
+# WAF Visual #2
+
+<p align="center">
+  
+<img src="https://i0.wp.com/theintactone.com/wp-content/uploads/2019/07/4.1-web-application-firewall.png?resize=680%2C344&ssl=1" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+
+
+# What does a WAF protect? 
+- The WAF protects websites and APIs. It is configured as a reverse proxy and examines all HTTP(s) requests/traffic before they reach the web/application server.
 - WAFs can be considered as reverse proxies i.e. the opposite of a proxy server. Proxy servers protect devices from malicious applications, while WAFs protect web applications from malicious endpoints.
 - It blocks or tests irregular traffic with CAPTCHA tests to make sure the traffic is coming from a human and not a bot.
 
