@@ -38,7 +38,9 @@
 - WAFs can be considered as reverse proxies i.e. the opposite of a proxy server. Proxy servers protect devices from malicious applications, while WAFs protect web applications from malicious endpoints.
 - It blocks or tests irregular traffic with CAPTCHA tests to make sure the traffic is coming from a human and not a bot.
 
-# What Are Some Web Application Firewall Benefits? A web application firewall (WAF) prevents attacks that try to take advantage of the vulnerabilities in web-based applications. Vulnerabilities are common in legacy applications or applications with poor coding or designs. WAFs handle the code deficiencies with custom rules or policies.
+# What Are Some Web Application Firewall Benefits? 
+- A web application firewall (WAF) prevents attacks that try to take advantage of the vulnerabilities in web-based applications.
+- Vulnerabilities are common in legacy applications or applications with poor coding or designs. WAFs handle the code deficiencies with custom rules or policies.
 - Location: WAF sits between external users and web applications to analyze all HTTP communication.
 - WAFs secure business-critical web applications and web servers from zero-day threats and other application-layer attacks.
   
