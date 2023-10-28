@@ -45,8 +45,7 @@
 
 <p align="center">
   
-<img src="https://github.com/earkevin11/Web-Application-Firewall/assets/104326475/c399654f-5545-4d8e-b325-6bc7ac2c2112
-" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://github.com/earkevin11/Web-Application-Firewall/assets/104326475/c399654f-5545-4d8e-b325-6bc7ac2c2112" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
 
