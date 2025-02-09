@@ -74,7 +74,7 @@
  
 Ex: For example, a Layer 7 DDoS attack sends a flood of traffic to the server layer where web pages are generated and delivered in response to HTTP requests. A WAF mitigates this by acting as a reverse proxy that protects the targeted server from malicious traffic and filters requests to identify the use of DDoS tools. 
 
-# Network Firewall
+# Network Firewall (Layer 3 and Layer 4 of OSI model)
 
 # Network Firewall Architecture
 - Network Firewall is located on the edge of the network
