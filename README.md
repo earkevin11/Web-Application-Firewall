@@ -20,7 +20,7 @@
 
 
 
-# WAF vs Network Firewall
+# WAF (L7) vs Network Firewall (L3 and L4)
 - WAF and Network Firewall server DIFFERENT purposes and protect different network types.
 - A WAF protects web applications by targeting Hypertext Transfer Protocol (HTTP) traffic. This differs from a standard firewall, which provides a barrier between external and internal network traffic.
 - Network firewalls and web application firewalls are complementary and can work together.
